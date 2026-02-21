@@ -56,7 +56,7 @@ const USDC_DECIMALS = 6;
 const BASE_MAINNET_CHAIN_ID = "0x2105";
 
 // Your onchain contract to hit on every tap.
-const TAP_CONTRACT = "0x40344818472F5CAF05f7AC50cb6867442b3F55ea"; // checksummed
+const TAP_CONTRACT = "0x9a088725cda086b6c3ec461d416fa17ff9ee813e"; // checksummed
 
 // Optional: the same address is used as the USDC tip recipient in the Tip tab.
 const TIP_RECIPIENT = "0xEeF9Ab2B4Bbb455904f6Fb74116AF69dd152f9D4";
